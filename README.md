@@ -2,6 +2,15 @@
 
 ![Imagem fundo site](src/assets/imgs/backgroundApp.png)
 
+ <h3 align="center">
+ Para acessar este arquivo digite no prompt:
+ </h3>
+
+```git clone https://github.com/igorlimasandes/TO-DO-LIST-REACT.git``` <br>
+```cd .\TO-DO-LIST-REACT\``` <br>
+```npm install``` <br>
+```npm run dev```
+
 ---
 
 <h2 align="center">🔨 Ferramentas</h2>
