@@ -1,0 +1,26 @@
+.btn {
+
+background-color: #4169E1;
+border: 0px;
+color: #fff;
+padding: 7.5px;
+border-radius: 5px;
+
+}
+
+.btn:focus {
+
+outline: 0px;
+border: 0px;
+background-color: #1A237E;
+
+}
+
+.btn:hover {
+
+transition: background-color 0.4s;
+cursor: pointer;
+background-color: #1A237E;
+
+}
+

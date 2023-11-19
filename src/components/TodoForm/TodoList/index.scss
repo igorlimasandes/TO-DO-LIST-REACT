@@ -1,0 +1,38 @@
+.content-todo {
+
+margin-top: 300px;
+position: absolute;
+left: 50%;
+transform: translateX(-50%);
+
+}
+
+.list-todo {
+
+list-style-type: none;
+padding: 0;
+
+}
+
+.item-todo {
+
+display: flex;
+flex-direction: column;
+text-align: center;
+gap: 5px;
+border-bottom: 1px solid black;
+width: 800px;
+height: auto;
+word-wrap: break-word;
+justify-content: center;
+
+}
+
+.container-buttons {
+
+display: flex;
+justify-content: center;
+gap: 5px;
+margin-bottom: 10px;
+
+}
